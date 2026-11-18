@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/a946346885b3c762fcbadb265823e70150c3e2f1/Actions/.Modules/settings.schema.json",
   "githubRunnerShell": "pwsh",
   "MicrosoftTelemetryConnectionString": "",
   "enableAppSourceCop": true,
@@ -65,7 +66,6 @@
     "maxReleases": 0
   },
   "memoryLimit": "16G",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/a946346885b3c762fcbadb265823e70150c3e2f1/Actions/.Modules/settings.schema.json",
   "rulesetFile": "../../../src/rulesets/base.ruleset.json",
   "templateUrl": "https://github.com/businesscentralapps/tmpWnfEPT-PTE@main",
   "conditionalSettings": [
